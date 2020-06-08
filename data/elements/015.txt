@@ -1,0 +1,7 @@
+name = "Phosphorus";
+symbol = "P";
+atomic_number = "15";
+mass = "30.97";
+density = "1.82";
+melting_point = "44.2";
+boiling_point = "280.5";

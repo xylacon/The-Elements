@@ -1,0 +1,7 @@
+name = "Cobalt";
+symbol = "Co";
+atomic_number = "27";
+mass = "58.93";
+density = "8.90";
+melting_point = "1495.0";
+boiling_point = "2927.0";

@@ -1,0 +1,7 @@
+name = "Manganese";
+symbol = "Mn";
+atomic_number = "25";
+mass = "54.94";
+density = "7.47";
+melting_point = "1246.0";
+boiling_point = "2061.0";

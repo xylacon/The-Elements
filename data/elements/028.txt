@@ -1,0 +1,7 @@
+name = "Nickel";
+symbol = "Ni";
+atomic_number = "28";
+mass = "58.69";
+density = "8.91";
+melting_point = "1455.0";
+boiling_point = "2913.0";

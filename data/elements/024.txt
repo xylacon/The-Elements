@@ -1,0 +1,7 @@
+name = "Chromium";
+symbol = "Cr";
+atomic_number = "24";
+mass = "52.00";
+density = "7.19";
+melting_point = "1907.0";
+boiling_point = "2671.0";

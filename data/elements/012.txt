@@ -1,0 +1,7 @@
+name = "Magnesium";
+symbol = "Mg";
+atomic_number = "12";
+mass = "24.31";
+density = "1.74";
+melting_point = "650.0";
+boiling_point = "1090.0";

@@ -1,0 +1,7 @@
+name = "Titanium";
+symbol = "Ti";
+atomic_number = "22";
+mass = "47.87";
+density = "4.507";
+melting_point = "1668.0";
+boiling_point = "3287.0";

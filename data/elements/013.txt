@@ -1,0 +1,7 @@
+name = "Aluminum";
+symbol = "Al";
+atomic_number = "13";
+mass = "26.98";
+density = "2.70";
+melting_point = "660.3";
+boiling_point = "2519.0";

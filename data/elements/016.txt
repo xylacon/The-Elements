@@ -1,0 +1,7 @@
+name = "Sulfur";
+symbol = "S";
+atomic_number = "16";
+mass = "32.06";
+density = "1.96";
+melting_point = "115.2";
+boiling_point = "444.7";

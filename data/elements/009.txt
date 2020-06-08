@@ -1,0 +1,7 @@
+name = "Fluorine";
+symbol = "F";
+atomic_number = "9";
+mass = "19.00";
+density = "1.70";
+melting_point = "-219.6";
+boiling_point = "-188.1";

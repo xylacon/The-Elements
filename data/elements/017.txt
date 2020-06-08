@@ -1,0 +1,7 @@
+name = "Chlorine";
+symbol = "Cl";
+atomic_number = "17";
+mass = "35.45";
+density = "3.21";
+melting_point = "-101.5";
+boiling_point = "-34.0";

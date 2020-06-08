@@ -1,0 +1,7 @@
+name = "Scandium";
+symbol = "Sc";
+atomic_number = "21";
+mass = "44.96";
+density = "2.99";
+melting_point = "1541.0";
+boiling_point = "2830.0";

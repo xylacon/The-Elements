@@ -1,0 +1,7 @@
+name = "Beryllium";
+symbol = "Be";
+atomic_number = "4";
+mass = "9.01";
+density = "1.85";
+melting_point = "1287.0";
+boiling_point = "2470.0";

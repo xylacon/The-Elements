@@ -1,0 +1,7 @@
+name = "Iron";
+symbol = "Fe";
+atomic_number = "26";
+mass = "55.85";
+density = "7.87";
+melting_point = "1538.0";
+boiling_point = "2861.0";

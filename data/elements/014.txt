@@ -1,0 +1,7 @@
+name = "Silicon";
+symbol = "Si";
+atomic_number = "14";
+mass = "28.09";
+density = "2.33";
+melting_point = "1414.0";
+boiling_point = "2900.0";

@@ -1,0 +1,7 @@
+name = "Carbon";
+symbol = "C";
+atomic_number = "6";
+mass = "12.01";
+density = "2.26";
+melting_point = "3550.0";
+boiling_point = "4027.0";

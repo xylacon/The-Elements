@@ -1,0 +1,7 @@
+name = "Zinc";
+symbol = "Zn";
+atomic_number = "30";
+mass = "65.38";
+density = "7.14";
+melting_point = "419.53";
+boiling_point = "907.0";

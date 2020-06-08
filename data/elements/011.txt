@@ -1,0 +1,7 @@
+name = "Sodium";
+symbol = "Na";
+atomic_number = "11";
+mass = "22.99";
+density = "0.97";
+melting_point = "97.7";
+boiling_point = "883.0";

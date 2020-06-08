@@ -1,0 +1,7 @@
+name = "Argon";
+symbol = "Ar";
+atomic_number = "18";
+mass = "39.95";
+density = "1.78";
+melting_point = "-189.3";
+boiling_point = "-185.8";

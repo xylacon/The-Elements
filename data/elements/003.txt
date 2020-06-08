@@ -1,0 +1,7 @@
+name = "Lithium";
+symbol = "Li";
+atomic_number = "3";
+mass = "6.94";
+density = "0.54";
+melting_point = "180.5";
+boiling_point = "1342.0";

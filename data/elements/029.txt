@@ -1,0 +1,7 @@
+name = "Copper";
+symbol = "Cu";
+atomic_number = "29";
+mass = "63.55";
+density = "8.96";
+melting_point = "1084.6";
+boiling_point = "2562.0";

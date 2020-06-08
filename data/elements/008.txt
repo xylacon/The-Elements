@@ -1,0 +1,7 @@
+name = "Oxygen";
+symbol = "O";
+atomic_number = "8";
+mass = "16.00";
+density = "1.43";
+melting_point = "-218.3";
+boiling_point = "-182.9";

@@ -1,0 +1,7 @@
+name = "Nitrogen";
+symbol = "N";
+atomic_number = "7";
+mass = "14.01";
+density = "1.25";
+melting_point = "-210.1";
+boiling_point = "-195.8";

@@ -1,0 +1,7 @@
+name = "Boron";
+symbol = "B";
+atomic_number = "5";
+mass = "10.81";
+density = "2.46";
+melting_point = "2075.0";
+boiling_point = "4000.0";

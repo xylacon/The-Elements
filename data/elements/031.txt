@@ -1,0 +1,7 @@
+name = "Gallium";
+symbol = "Ga";
+atomic_number = "31";
+mass = "69.72";
+density = "5.90";
+melting_point = "29.76";
+boiling_point = "2204.0";

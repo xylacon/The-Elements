@@ -1,0 +1,7 @@
+name = "Vanadium";
+symbol = "V";
+atomic_number = "23";
+mass = "50.94";
+density = "6.11";
+melting_point = "1910.0";
+boiling_point = "3407.0";
