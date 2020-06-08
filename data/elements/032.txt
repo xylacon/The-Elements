@@ -1,7 +1,7 @@
-name = "";
-symbol = "";
-atomic_number = "";
-mass = "";
-density = "";
-melting_point = "";
-boiling_point = "";
+name = "Germanium";
+symbol = "Ge";
+atomic_number = "32";
+mass = "72.63";
+density = 5.32"";
+melting_point = "938.3";
+boiling_point = "2820.0";
